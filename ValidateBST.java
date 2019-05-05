@@ -6,6 +6,8 @@
  *     TreeNode right;
  *     TreeNode(int x) { val = x; }
  * }
+ Logic : 
+ Setting the range of Every Node
  */
 public class Solution {
     public boolean isValidBST(TreeNode root) {
